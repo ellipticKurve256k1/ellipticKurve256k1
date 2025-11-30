@@ -24,7 +24,7 @@ $$
 <br>
 
 ### GPG Fingerprint
-[AFC8 10CF 10D3 8599 4346  A34F 44EB 919B FFFF 735E](https://gist.githubusercontent.com/ellipticKurve256k1/0b0b5a721cd7326e551d9ba1460131bd/raw/3cbe4eeb55c52a53f6383917e2c535934e7f340a/FFFF_735E_gpg_pubkey) 
+[AFC8 10CF 10D3 8599 4346  A34F 44EB 919B FFFF 735E](https://keybase.io/elliptickurve256/pgp_keys.asc?fingerprint=afc810cf10d385994346a34f44eb919bffff735e) 
 
 
 
